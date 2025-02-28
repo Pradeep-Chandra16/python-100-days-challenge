@@ -27,8 +27,6 @@ scissors = '''
 ---.__(___)
 '''
 
-# Write your code below this line 👇
-
 hands = [rock, paper, scissors]
 
 while True:
